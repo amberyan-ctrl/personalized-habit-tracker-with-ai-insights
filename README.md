@@ -4,6 +4,9 @@ Habit Powered helps you build routines with small, repeatable steps. Check in ea
 
 I built Habit Powered around a positive feedback loop: celebrate showing up, make progress easy to see, and make it comfortable to begin again after a missed day. It is designed for people who want a personal habit tracker that encourages consistency without treating a streak as a measure of worth.
 
+<img width="718" height="612" alt="Screenshot 2026-09-29 at 1 55 22 PM" src="https://github.com/user-attachments/assets/0b8450cd-c888-4004-bfa5-7a57dfe75689" />
+
+
 ## Current Status
 
 Current status: Working browser-based MVP. Habit details and check-ins are saved in the current browser with `localStorage`; there is no account or cross-device sync.
