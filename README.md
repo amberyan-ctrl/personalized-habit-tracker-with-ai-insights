@@ -4,7 +4,7 @@ Habit Powered helps you build routines with small, repeatable steps. Check in ea
 
 I built Habit Powered around a positive feedback loop: celebrate showing up, make progress easy to see, and make it comfortable to begin again after a missed day. It is designed for people who want a personal habit tracker that encourages consistency without treating a streak as a measure of worth.
 
-<img width="1203" height="953" alt="Screenshot 2026-09-29 at 1 37 35 PM" src="https://github.com/user-attachments/assets/fa878924-b9e5-4f64-8937-748c1cacd405" />
+<img width="1169" height="965" alt="Screenshot 2026-09-29 at 2 22 15 PM" src="https://github.com/user-attachments/assets/1db73fd9-9832-46f0-8af4-bc0155df39aa" />
 
 
 ## Current Status
